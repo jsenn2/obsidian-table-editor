@@ -15,7 +15,7 @@ An Obsidian plugin to provide an editor for Markdown tables. It can open CSV, Mi
   * [1. Usage Guide](#1-usage-guide)
     + [1.1 Create a New Table](#11-create-a-new-table)
     + [1.2 Edit and format an existing Markdown Table](#12-edit-and-format-an-existing-markdown-table)
-    + [1.3 CVS data to Markdown Table](#13-cvs-data-to-markdown-table)
+    + [1.3 CSV data to Markdown Table](#13-csv-data-to-markdown-table)
     + [1.4 Excel or Sheets to Markdown Table](#14-excel-or-sheets-to-markdown-table)
       - [1.5 Operations](#15-operations)
         * [Cell Operations](#cell-operations)
@@ -52,12 +52,12 @@ https://user-images.githubusercontent.com/42957010/158850763-875d1ce4-fded-4ca4-
 
 ![Edit and format an existing Markdown Table](https://user-images.githubusercontent.com/2135089/155854503-9c894dff-fea2-4785-8078-78b53b23f98c.gif)
 
-### 1.3 CVS data to Markdown Table
+### 1.3 CSV data to Markdown Table
 
 1. Select the CSV content or just place the cursor inside the CSV content
 2. Open *Markdown Table Editor*
 
-![CVS data to Markdown Table](https://user-images.githubusercontent.com/2135089/155854610-992bfa4f-1be3-4a56-ab56-89726a7db253.gif)
+![CSV data to Markdown Table](https://user-images.githubusercontent.com/2135089/155854610-992bfa4f-1be3-4a56-ab56-89726a7db253.gif)
 
 ### 1.4 Excel or Sheets to Markdown Table
 
@@ -150,3 +150,4 @@ The following operations are supported
 If you like my work, you could consider buying me a coffee. It is unnecessary, but appreciated 🙂
 
 <a href="https://www.buymeacoffee.com/ganesshkumar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
